@@ -459,7 +459,9 @@ http://www.tooplate.com/view/2098-health
   }
 
   .slider .item-third {
-    background-image: url(../images/slider3.jpg);
+    /* background-image: url(../images/slider3.jpg); */
+    background-color: black;
+    height: 200px;
   }
 
 
